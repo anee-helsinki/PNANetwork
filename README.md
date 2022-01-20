@@ -15,7 +15,7 @@ For the reasons of copyright, we are not able to publish the data from which the
 
 <b>NetworkCreation</b>: The creation of the networks and writing csv files
 
-<b>Networks</b>: The networks as csv and gexf files that can be used for studying and visualizing the networks
+<b>Networks</b>: The networks as csv files and a gephi project that can be used for studying and visualizing the networks
 
 <b>Output</b>: Lists produced during the various stages of creating the network
 
@@ -66,3 +66,7 @@ For the reasons of copyright, we are not able to publish the data from which the
 ### Acknowledgements
 
 We gratefully acknowledge the work of our colleagues who have created The Prosopography of the Neo-Assyrian Empire. The PNA volumes were edited by Heather D. Baker and Karen Radner in the context of the Neo-Assyrian Text Corpus Project (PI Simo Parpola). Baker’s later work on PNA was carried out in the framework of the Royal Institutional Households in First Millennium BC Mesopotamia project, funded by the Austrian Science Fund (FWF). The individual entries in the prosopography were written by colleagues who are too many to be listed here. We thank Parpola for making the PNA volumes available to us in plain text and pdf formats, and Baker, Parpola, and Radner for the permission to publish the dataset online. Some metadata on the attestations of Assyrian kings was collected from the State Archives of Assyria Online, a part of the Munich Open-access Cuneiform Corpus Initiative (PIs Karen Radner and Jamie Novotny, LMU Munich). We also thank the members of the Centre of Excellence in Ancient Near Eastern Empires and the participants of several workshops for their helpful feedback on various versions of the dataset.
+
+
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />These files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
