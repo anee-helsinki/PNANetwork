@@ -92,3 +92,6 @@ timeperiods
 * 1 7th century probably reign of Assurbanipal or later
 * If the dating of an individual is the second line (without the number (= frequency)), use the first line as the person's Time attribute in the network
 
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />These files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+
